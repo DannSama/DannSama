@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DannSama
-- 👀 I’m interested in software engineering
+- 👀 I’m interested in software engineering and machine learning
 - 🌱 I’m currently learning java, HTML, CSS and JS
 - 💞️ I’m looking to collaborate
 - 📫 you can contact me on insta @Pancakekunn
